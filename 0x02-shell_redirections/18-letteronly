@@ -1,0 +1,2 @@
+#!/bin/bash
+grep ^[[:alpla:]] /etc/ssh/sshd_config
